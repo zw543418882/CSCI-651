@@ -1,0 +1,3 @@
+1. Use ¡°javac NTPClient.java¡± to compile 
+2. Use ¡°java NTPClient us.pool.ntp.org¡± to execute the program
+3. The program will send a NTP request every 2 seconds, and then the console will print related information after receiving a response

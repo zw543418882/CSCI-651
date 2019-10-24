@@ -1,0 +1,4 @@
+Date: 09:55 11/14/2018 ACT
+Current Velocity: 8 m/s
+Temperature: 20 F
+Salinity: 2%
